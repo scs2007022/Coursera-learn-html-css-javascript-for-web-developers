@@ -1,0 +1,23 @@
+section{
+    margin-bottom:10px ;
+    padding-bottom:10px
+}
+h2{
+    margin:5px;
+}
+
+h3{
+    padding:10 5px;
+    font-size:1.2em;
+    margin:10px;
+}
+
+.food_categories .content{
+    text-align: justify;
+    padding:5px;
+    margin:10px;
+}
+
+.Back_to_top{
+    text-decoration: none;
+}
